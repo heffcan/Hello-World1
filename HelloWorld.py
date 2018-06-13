@@ -6,5 +6,3 @@ Ryan Heifferon
 
 '''
 print("Hello, friggin world!")
-
-
